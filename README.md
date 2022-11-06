@@ -1,2 +1,2 @@
 # roblox-studio-discord-rpc
-Discord rich presence for Roblox studio, compatibility with macOS Monterey+
+**Uses [Deno](https://deno.land) and JavaScript to create a Discord Rich Presence Client for Roblox Studio, compatible with macOS Catalina or later.**
